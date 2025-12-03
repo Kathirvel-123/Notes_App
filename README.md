@@ -50,7 +50,7 @@ notes-app/
 
 1. Clone the repo
 ```
-git clone <your-repo-url>
+git clone https://github.com/Kathirvel-123/Notes_App.git
 ```
 2. Install dependencies
 ```
