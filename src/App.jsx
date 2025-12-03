@@ -11,7 +11,7 @@ const App = () => {
     <BrowserRouter>
       <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-slate-100">
         <nav className="sticky top-0 z-30 border-b border-white/10 bg-slate-900/70 backdrop-blur-lg">
-          <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
+          <div className="mx-auto flex max-w-8xl items-center justify-between px-4 py-3 sm:px-6">
             <span className="text-base font-semibold tracking-tight text-white sm:text-lg">
               <span className="bg-gradient-to-r from-indigo-400 to-fuchsia-400 bg-clip-text text-transparent">
                 NoteNest
