@@ -1,4 +1,5 @@
 # NoteNest – React Notes App
+URL = "https://notenest02.netlify.app"
 
 NoteNest is a responsive notes management application built with React and Vite. It lets you create, tag, search, pin, archive, and trash notes in a modern dark “glass” themed interface.
 
